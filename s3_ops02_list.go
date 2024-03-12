@@ -63,6 +63,10 @@ func main() {
 		fmt.Println("Metadaten des Objekts:", metaDataOutput)
 		fmt.Println("Zeitstempel des Objekts:", *metaDataOutput.LastModified)
 		fmt.Println("Etag des Objekts:", *metaDataOutput.ETag)
+
+		// Fügen Sie einen Zeilenumbruch nach jedem Objekt ein, um die Ausgabe zu trennen
+		fmt.Println("------------------------------------------------------------")
 	}
 }
+
 

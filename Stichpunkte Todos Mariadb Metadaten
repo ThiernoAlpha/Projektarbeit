@@ -1,0 +1,24 @@
+Arbeitsanweisung TODOS
+
+
+1. Go Äquivalent zu mariadb-client (wie s3cmd für sql datenbanken) finden.
+
+2. Mit Go Programm auf MYSQL Datenbank von ownCloudserver zugreifen (siehe Rocketchat) und Inhalt gelistet ausgeben (SELECT * FROM ...).
+
+3. Daten müssen mit den vorhandenen Metadaten vom S3 Abgegelichen werden um den Klarnamen zuzuordnen.
+
+4. Ausgabe der gelisteten Daten mit allen relevanten Metadaten und Klarnamen.
+
+
+
+
+
+mysql -h 128.140.86.10 -P 13306 -u owncloud --password=ngq0ckid0r owncloud
+s3cmd --host 128.140.86.10:8000 --access_key owncloud --secret_key i6lfi2rnaj4rfi3eoudm3egolr5k1x68 --host-bucket '%(bucket).%(host)' --no-ssl ls -l s3://oc-primary/
+
+ownCloud URL: https://oc1014-s3-20240308.jw-qa.owncloud.works
+admin / murphy-32-16-8
+alice / secret
+bob / secret
+carol / secret
+
