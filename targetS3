@@ -1,8 +1,0 @@
-access_key = owncloud
-secret_key = 1s68uyue47mdleketrbi5z72a9rc2kuf
-host_base = 65.21.154.79:8000
-host_bucket = %(bucket).65.21.154.79:8000
-signature_v2 = False
-use_https = False
-
-

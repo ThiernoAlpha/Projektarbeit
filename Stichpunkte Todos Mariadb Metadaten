@@ -1,15 +1,19 @@
 Arbeitsanweisung TODOS
 
 
-1. Go Äquivalent zu mariadb-client (wie s3cmd für sql datenbanken) finden.
-
-2. Mit Go Programm auf MYSQL Datenbank von ownCloudserver zugreifen (siehe Rocketchat) und Inhalt gelistet ausgeben (SELECT * FROM ...).
-
-3. Daten müssen mit den vorhandenen Metadaten vom S3 Abgegelichen werden um den Klarnamen zuzuordnen.
-
-4. Ausgabe der gelisteten Daten mit allen relevanten Metadaten und Klarnamen.
 
 
+
+Programm auf 1 Programm reduzieren.
+
+Ausgangsprogramm Abfrage mdb. Aus der ID eine oid bauen und den S3 nach den oid Einträgen befragen. Wenn vorhanden die checksummen abgleichen und prüfen ob die Daten existieren.
+
+Wenn die Daten existieren, dann vollständige Daten abfragen. Headobject (download/export)
+
+Zeitstempel-Frage klären, Änderungsdatum, Erststellungsdatum?
+
+
+date --date=@mtime
 
 
 

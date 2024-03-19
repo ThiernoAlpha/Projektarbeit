@@ -1,0 +1,10 @@
+-- S3
+s3cmd --host 128.140.86.10:8000 --access_key owncloud --secret_key i6lfi2rnaj4rfi3eoudm3egolr5k1x68 --host-bucket '%(bucket).%(host)' --no-ssl ls -l s3://oc-primary/
+
+
+-- MariaDB
+( 
+s3cmd --host 128.140.86.10:8000 --access_key owncloud --secret_key i6lfi2rnaj4rfi3eoudm3egolr5k1x68 --host-bucket '%(bucket).%(host)' --no-ssl ls -l s3://oc-primary/
+)
+mysql -h 128.140.86.10 -P 13306 -u owncloud --password=ngq0ckid0r owncloud
+select * from oc_filecache;
