@@ -12,8 +12,8 @@ import (
 
 func main() {
 	accessKey := "owncloud"
-	secretKey := "1s68uyue47mdleketrbi5z72a9rc2kuf"
-	endpoint := "http://65.21.154.79:8000"
+	secretKey := "i6lfi2rnaj4rfi3eoudm3egolr5k1x68"
+	endpoint := "http://128.140.86.10:8000"
 	region := "us-east-1"
 
 	// Setzen Sie die AWS-Region und benutzerdefinierte HTTP-Transportkonfiguration.
@@ -42,9 +42,11 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+	var sum int = 0
 
 	// Ausgabe der Objekte im Bucket
 	for _, item := range resp.Contents {
+		sum = sum + 1
 		// Objekt-Metadaten abrufen
 		metaDataInput := &s3.HeadObjectInput{
 			Bucket: aws.String("oc-primary"),
@@ -67,7 +69,7 @@ func main() {
 		// Leerzeile einfügen, um die Ausgabe zu trennen
 		fmt.Println()
 	}
-
+	fmt.Println(sum)
 	// Abfrage, ob die Ausgabe in eine Datei gespeichert werden soll
 	fmt.Print("Soll die Ausgabe in eine Datei gespeichert werden (j/n)? ")
 	var saveOption string

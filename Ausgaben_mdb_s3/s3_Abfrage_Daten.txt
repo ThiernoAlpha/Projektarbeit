@@ -1,0 +1,554 @@
+Verbunden mit S3-Bucket
+
+Name: urn:oid:100
+Größe: 210954
+AcceptRanges: bytes
+ContentLength: 210954
+Typ: image/png
+ETag: "2034c2800e886c84d4a82c6eca289713"
+Zeitstempel: 2024-03-12 13:14:00 +0000 UTC
+
+Name: urn:oid:101
+Größe: 983
+AcceptRanges: bytes
+ContentLength: 983
+Typ: image/png
+ETag: "54e2d22d09fc5b2fb7c2730a9a820d88"
+Zeitstempel: 2024-03-12 13:14:00 +0000 UTC
+
+Name: urn:oid:102
+Größe: 1005
+AcceptRanges: bytes
+ContentLength: 1005
+Typ: image/png
+ETag: "267888663f4428eb7704213fe2a6b6a1"
+Zeitstempel: 2024-03-12 13:14:00 +0000 UTC
+
+Name: urn:oid:103
+Größe: 16
+AcceptRanges: bytes
+ContentLength: 16
+Typ: text/plain
+ETag: "5c222ff409b5915778db8adfedf3b4b3"
+Zeitstempel: 2024-03-12 13:14:46 +0000 UTC
+
+Name: urn:oid:105
+Größe: 13967
+AcceptRanges: bytes
+ContentLength: 13967
+Typ: image/png
+ETag: "489945c38286b37a5f99177a5b8836a3"
+Zeitstempel: 2024-03-12 13:14:49 +0000 UTC
+
+Name: urn:oid:106
+Größe: 486
+AcceptRanges: bytes
+ContentLength: 486
+Typ: image/png
+ETag: "5d5bee9eb77865470d496526ce55eb82"
+Zeitstempel: 2024-03-12 13:14:49 +0000 UTC
+
+Name: urn:oid:107
+Größe: 24
+AcceptRanges: bytes
+ContentLength: 24
+Typ: text/plain
+ETag: "72e4715a186d55937289826e4ec72c12"
+Zeitstempel: 2024-03-12 13:15:56 +0000 UTC
+
+Name: urn:oid:109
+Größe: 10820
+AcceptRanges: bytes
+ContentLength: 10820
+Typ: image/png
+ETag: "60c07ed72aba750a7b8142d0909a2e76"
+Zeitstempel: 2024-03-12 13:15:56 +0000 UTC
+
+Name: urn:oid:110
+Größe: 500
+AcceptRanges: bytes
+ContentLength: 500
+Typ: image/png
+ETag: "d83ac70a16f2fb528907ca21eff9c58c"
+Zeitstempel: 2024-03-12 13:15:57 +0000 UTC
+
+Name: urn:oid:111
+Größe: 1456
+AcceptRanges: bytes
+ContentLength: 1456
+Typ: image/png
+ETag: "c1704c74382d73e20e885adadc6d901c"
+Zeitstempel: 2024-03-12 13:16:01 +0000 UTC
+
+Name: urn:oid:112
+Größe: 83
+AcceptRanges: bytes
+ContentLength: 83
+Typ: text/plain
+ETag: "53a3aeb557c680a59b32f002c7d2e7a6"
+Zeitstempel: 2024-03-18 15:48:28 +0000 UTC
+
+Name: urn:oid:116
+Größe: 1802
+AcceptRanges: bytes
+ContentLength: 1802
+Typ: image/png
+ETag: "420f4dd4581c41274df908580c7b66d2"
+Zeitstempel: 2024-03-12 13:19:15 +0000 UTC
+
+Name: urn:oid:117
+Größe: 1004
+AcceptRanges: bytes
+ContentLength: 1004
+Typ: image/png
+ETag: "309cbc162fdeeda456b7f8c304b71d0f"
+Zeitstempel: 2024-03-12 13:24:07 +0000 UTC
+
+Name: urn:oid:118
+Größe: 3597
+AcceptRanges: bytes
+ContentLength: 3597
+Typ: image/png
+ETag: "7a56260c67fc0ff34f9a32e4c6bf7a2d"
+Zeitstempel: 2024-03-12 13:24:10 +0000 UTC
+
+Name: urn:oid:120
+Größe: 44
+AcceptRanges: bytes
+ContentLength: 44
+Typ: text/plain
+ETag: "92ea56265c2e773a8f2ac5f94ff43b6a"
+Zeitstempel: 2024-03-12 13:59:27 +0000 UTC
+
+Name: urn:oid:122
+Größe: 15441
+AcceptRanges: bytes
+ContentLength: 15441
+Typ: image/png
+ETag: "c59f2a706b3fc25b67f49c643ea5be0d"
+Zeitstempel: 2024-03-12 13:59:28 +0000 UTC
+
+Name: urn:oid:123
+Größe: 1119
+AcceptRanges: bytes
+ContentLength: 1119
+Typ: image/png
+ETag: "1be65ab7415237b4655ec700d6b738ab"
+Zeitstempel: 2024-03-12 13:59:28 +0000 UTC
+
+Name: urn:oid:124
+Größe: 643
+AcceptRanges: bytes
+ContentLength: 643
+Typ: image/png
+ETag: "1899934afdc35e9ccbbf2ca46f816e89"
+Zeitstempel: 2024-03-13 09:50:09 +0000 UTC
+
+Name: urn:oid:125
+Größe: 18621
+AcceptRanges: bytes
+ContentLength: 18621
+Typ: image/png
+ETag: "42d8bce2698f9c30e86e065781382054"
+Zeitstempel: 2024-03-18 15:49:53 +0000 UTC
+
+Name: urn:oid:126
+Größe: 1258
+AcceptRanges: bytes
+ContentLength: 1258
+Typ: image/png
+ETag: "aa04162584dc799655da7a0ebe720d48"
+Zeitstempel: 2024-03-18 15:49:54 +0000 UTC
+
+Name: urn:oid:23
+Größe: 228789
+AcceptRanges: bytes
+ContentLength: 228789
+Typ: image/jpeg
+ETag: "2617bb41ab25b8acd0c18cefefbf6360"
+Zeitstempel: 2024-03-08 13:44:27 +0000 UTC
+
+Name: urn:oid:24
+Größe: 243733
+AcceptRanges: bytes
+ContentLength: 243733
+Typ: image/jpeg
+ETag: "01b38c622feac31652d738a94e15e86b"
+Zeitstempel: 2024-03-08 13:44:28 +0000 UTC
+
+Name: urn:oid:25
+Größe: 538942
+AcceptRanges: bytes
+ContentLength: 538942
+Typ: image/jpeg
+ETag: "147156bc95dba89fab2227507462ebea"
+Zeitstempel: 2024-03-08 13:44:28 +0000 UTC
+
+Name: urn:oid:27
+Größe: 36227
+AcceptRanges: bytes
+ContentLength: 36227
+Typ: application/vnd.oasis.opendocument.text
+ETag: "12348c01fb20e0230c1afdacfe514308"
+Zeitstempel: 2024-03-08 13:44:28 +0000 UTC
+
+Name: urn:oid:29
+Größe: 1611431
+AcceptRanges: bytes
+ContentLength: 1611431
+Typ: application/pdf
+ETag: "d6022e62ba4ca6339023a7ca8a59c624"
+Zeitstempel: 2024-03-08 13:44:28 +0000 UTC
+
+Name: urn:oid:30
+Größe: 418526
+AcceptRanges: bytes
+ContentLength: 418526
+Typ: application/pdf
+ETag: "3dc8c7aa774018e273ed0966231f6900"
+Zeitstempel: 2024-03-08 13:44:28 +0000 UTC
+
+Name: urn:oid:31
+Größe: 755022
+AcceptRanges: bytes
+ContentLength: 755022
+Typ: application/pdf
+ETag: "397599bed99ed48e1a420fe0a8ce68fd"
+Zeitstempel: 2024-03-08 13:44:28 +0000 UTC
+
+Name: urn:oid:32
+Größe: 303237
+AcceptRanges: bytes
+ContentLength: 303237
+Typ: application/pdf
+ETag: "ae2666d86aeb555ee15c31b5f5f477ac"
+Zeitstempel: 2024-03-08 13:44:28 +0000 UTC
+
+Name: urn:oid:33
+Größe: 314348
+AcceptRanges: bytes
+ContentLength: 314348
+Typ: application/pdf
+ETag: "46bf17bceab32b1fa275d45a6812b1bd"
+Zeitstempel: 2024-03-08 13:44:28 +0000 UTC
+
+Name: urn:oid:34
+Größe: 238300
+AcceptRanges: bytes
+ContentLength: 238300
+Typ: application/pdf
+ETag: "c511ba341ba6aad2e28f47770b184b88"
+Zeitstempel: 2024-03-08 13:44:28 +0000 UTC
+
+Name: urn:oid:35
+Größe: 220185
+AcceptRanges: bytes
+ContentLength: 220185
+Typ: application/x-x509-ca-cert
+ETag: "af23e1ada59f66c89a19e32b3b68a29e"
+Zeitstempel: 2024-03-08 13:44:29 +0000 UTC
+
+Name: urn:oid:39
+Größe: 228789
+AcceptRanges: bytes
+ContentLength: 228789
+Typ: image/jpeg
+ETag: "2617bb41ab25b8acd0c18cefefbf6360"
+Zeitstempel: 2024-03-08 13:45:01 +0000 UTC
+
+Name: urn:oid:40
+Größe: 243733
+AcceptRanges: bytes
+ContentLength: 243733
+Typ: image/jpeg
+ETag: "01b38c622feac31652d738a94e15e86b"
+Zeitstempel: 2024-03-08 13:45:01 +0000 UTC
+
+Name: urn:oid:41
+Größe: 538942
+AcceptRanges: bytes
+ContentLength: 538942
+Typ: image/jpeg
+ETag: "147156bc95dba89fab2227507462ebea"
+Zeitstempel: 2024-03-08 13:45:01 +0000 UTC
+
+Name: urn:oid:43
+Größe: 36227
+AcceptRanges: bytes
+ContentLength: 36227
+Typ: application/vnd.oasis.opendocument.text
+ETag: "12348c01fb20e0230c1afdacfe514308"
+Zeitstempel: 2024-03-08 13:45:01 +0000 UTC
+
+Name: urn:oid:45
+Größe: 1611431
+AcceptRanges: bytes
+ContentLength: 1611431
+Typ: application/pdf
+ETag: "d6022e62ba4ca6339023a7ca8a59c624"
+Zeitstempel: 2024-03-08 13:45:01 +0000 UTC
+
+Name: urn:oid:46
+Größe: 418526
+AcceptRanges: bytes
+ContentLength: 418526
+Typ: application/pdf
+ETag: "3dc8c7aa774018e273ed0966231f6900"
+Zeitstempel: 2024-03-08 13:45:01 +0000 UTC
+
+Name: urn:oid:47
+Größe: 755022
+AcceptRanges: bytes
+ContentLength: 755022
+Typ: application/pdf
+ETag: "397599bed99ed48e1a420fe0a8ce68fd"
+Zeitstempel: 2024-03-08 13:45:01 +0000 UTC
+
+Name: urn:oid:48
+Größe: 303237
+AcceptRanges: bytes
+ContentLength: 303237
+Typ: application/pdf
+ETag: "ae2666d86aeb555ee15c31b5f5f477ac"
+Zeitstempel: 2024-03-08 13:45:01 +0000 UTC
+
+Name: urn:oid:49
+Größe: 314348
+AcceptRanges: bytes
+ContentLength: 314348
+Typ: application/pdf
+ETag: "46bf17bceab32b1fa275d45a6812b1bd"
+Zeitstempel: 2024-03-08 13:45:01 +0000 UTC
+
+Name: urn:oid:50
+Größe: 238300
+AcceptRanges: bytes
+ContentLength: 238300
+Typ: application/pdf
+ETag: "c511ba341ba6aad2e28f47770b184b88"
+Zeitstempel: 2024-03-08 13:45:02 +0000 UTC
+
+Name: urn:oid:55
+Größe: 126124
+AcceptRanges: bytes
+ContentLength: 126124
+Typ: image/png
+ETag: "5c2870efdf5d7801fa3130dadb51fd19"
+Zeitstempel: 2024-03-08 13:45:15 +0000 UTC
+
+Name: urn:oid:56
+Größe: 89157
+AcceptRanges: bytes
+ContentLength: 89157
+Typ: image/png
+ETag: "4ae275ee9657ef18a8d00f2d6531e635"
+Zeitstempel: 2024-03-08 13:45:15 +0000 UTC
+
+Name: urn:oid:58
+Größe: 987
+AcceptRanges: bytes
+ContentLength: 987
+Typ: image/png
+ETag: "59aae1bc7c85d72613727be6de83a750"
+Zeitstempel: 2024-03-08 13:45:15 +0000 UTC
+
+Name: urn:oid:59
+Größe: 983
+AcceptRanges: bytes
+ContentLength: 983
+Typ: image/png
+ETag: "54e2d22d09fc5b2fb7c2730a9a820d88"
+Zeitstempel: 2024-03-08 13:45:15 +0000 UTC
+
+Name: urn:oid:60
+Größe: 210954
+AcceptRanges: bytes
+ContentLength: 210954
+Typ: image/png
+ETag: "2034c2800e886c84d4a82c6eca289713"
+Zeitstempel: 2024-03-08 13:45:15 +0000 UTC
+
+Name: urn:oid:61
+Größe: 1005
+AcceptRanges: bytes
+ContentLength: 1005
+Typ: image/png
+ETag: "267888663f4428eb7704213fe2a6b6a1"
+Zeitstempel: 2024-03-08 13:45:15 +0000 UTC
+
+Name: urn:oid:62
+Größe: 23
+AcceptRanges: bytes
+ContentLength: 23
+Typ: text/plain
+ETag: "8df8a3fd648a074abb2fbdbf4ad2b2cf"
+Zeitstempel: 2024-03-08 13:45:33 +0000 UTC
+
+Name: urn:oid:64
+Größe: 14527
+AcceptRanges: bytes
+ContentLength: 14527
+Typ: image/png
+ETag: "d2b385f5fe49777e869767fb820d4c82"
+Zeitstempel: 2024-03-08 13:45:35 +0000 UTC
+
+Name: urn:oid:65
+Größe: 490
+AcceptRanges: bytes
+ContentLength: 490
+Typ: image/png
+ETag: "10a6c1e9f01e4bdb8e45bf7a53ccbf97"
+Zeitstempel: 2024-03-08 13:45:36 +0000 UTC
+
+Name: urn:oid:68
+Größe: 228789
+AcceptRanges: bytes
+ContentLength: 228789
+Typ: image/jpeg
+ETag: "2617bb41ab25b8acd0c18cefefbf6360"
+Zeitstempel: 2024-03-08 13:45:47 +0000 UTC
+
+Name: urn:oid:69
+Größe: 243733
+AcceptRanges: bytes
+ContentLength: 243733
+Typ: image/jpeg
+ETag: "01b38c622feac31652d738a94e15e86b"
+Zeitstempel: 2024-03-08 13:45:47 +0000 UTC
+
+Name: urn:oid:70
+Größe: 538942
+AcceptRanges: bytes
+ContentLength: 538942
+Typ: image/jpeg
+ETag: "147156bc95dba89fab2227507462ebea"
+Zeitstempel: 2024-03-08 13:45:47 +0000 UTC
+
+Name: urn:oid:72
+Größe: 36227
+AcceptRanges: bytes
+ContentLength: 36227
+Typ: application/vnd.oasis.opendocument.text
+ETag: "12348c01fb20e0230c1afdacfe514308"
+Zeitstempel: 2024-03-08 13:45:47 +0000 UTC
+
+Name: urn:oid:74
+Größe: 1611431
+AcceptRanges: bytes
+ContentLength: 1611431
+Typ: application/pdf
+ETag: "d6022e62ba4ca6339023a7ca8a59c624"
+Zeitstempel: 2024-03-08 13:45:47 +0000 UTC
+
+Name: urn:oid:75
+Größe: 418526
+AcceptRanges: bytes
+ContentLength: 418526
+Typ: application/pdf
+ETag: "3dc8c7aa774018e273ed0966231f6900"
+Zeitstempel: 2024-03-08 13:45:47 +0000 UTC
+
+Name: urn:oid:76
+Größe: 755022
+AcceptRanges: bytes
+ContentLength: 755022
+Typ: application/pdf
+ETag: "397599bed99ed48e1a420fe0a8ce68fd"
+Zeitstempel: 2024-03-08 13:45:47 +0000 UTC
+
+Name: urn:oid:77
+Größe: 303237
+AcceptRanges: bytes
+ContentLength: 303237
+Typ: application/pdf
+ETag: "ae2666d86aeb555ee15c31b5f5f477ac"
+Zeitstempel: 2024-03-08 13:45:47 +0000 UTC
+
+Name: urn:oid:78
+Größe: 314348
+AcceptRanges: bytes
+ContentLength: 314348
+Typ: application/pdf
+ETag: "46bf17bceab32b1fa275d45a6812b1bd"
+Zeitstempel: 2024-03-08 13:45:48 +0000 UTC
+
+Name: urn:oid:79
+Größe: 238300
+AcceptRanges: bytes
+ContentLength: 238300
+Typ: application/pdf
+ETag: "c511ba341ba6aad2e28f47770b184b88"
+Zeitstempel: 2024-03-08 13:45:48 +0000 UTC
+
+Name: urn:oid:81
+Größe: 16
+AcceptRanges: bytes
+ContentLength: 16
+Typ: text/plain
+ETag: "c2557cda63629f84e2c05f949d5bd3a5"
+Zeitstempel: 2024-03-08 13:46:07 +0000 UTC
+
+Name: urn:oid:84
+Größe: 12210
+AcceptRanges: bytes
+ContentLength: 12210
+Typ: image/png
+ETag: "dd60593833e0363f61124204a9dcd0f5"
+Zeitstempel: 2024-03-08 13:46:09 +0000 UTC
+
+Name: urn:oid:85
+Größe: 489
+AcceptRanges: bytes
+ContentLength: 489
+Typ: image/png
+ETag: "458e60ebaed484675625354252d24f89"
+Zeitstempel: 2024-03-08 13:46:09 +0000 UTC
+
+Name: urn:oid:86
+Größe: 1798
+AcceptRanges: bytes
+ContentLength: 1798
+Typ: application/octet-stream
+ETag: "709e549d98e8bcc75f59f6e3abafba13"
+Zeitstempel: 2024-03-08 13:49:16 +0000 UTC
+
+Name: urn:oid:92
+Größe: 12081
+AcceptRanges: bytes
+ContentLength: 12081
+Typ: image/png
+ETag: "1dfd2ca3b611834246162af79ea1851d"
+Zeitstempel: 2024-03-12 08:52:04 +0000 UTC
+
+Name: urn:oid:93
+Größe: 413
+AcceptRanges: bytes
+ContentLength: 413
+Typ: image/png
+ETag: "c52d87831f4d3f30f73026e79133211d"
+Zeitstempel: 2024-03-12 08:52:04 +0000 UTC
+
+Name: urn:oid:95
+Größe: 126124
+AcceptRanges: bytes
+ContentLength: 126124
+Typ: image/png
+ETag: "5c2870efdf5d7801fa3130dadb51fd19"
+Zeitstempel: 2024-03-12 13:14:00 +0000 UTC
+
+Name: urn:oid:96
+Größe: 987
+AcceptRanges: bytes
+ContentLength: 987
+Typ: image/png
+ETag: "59aae1bc7c85d72613727be6de83a750"
+Zeitstempel: 2024-03-12 13:14:00 +0000 UTC
+
+Name: urn:oid:98
+Größe: 89157
+AcceptRanges: bytes
+ContentLength: 89157
+Typ: image/png
+ETag: "4ae275ee9657ef18a8d00f2d6531e635"
+Zeitstempel: 2024-03-12 13:14:00 +0000 UTC
+

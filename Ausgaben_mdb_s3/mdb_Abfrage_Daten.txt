@@ -1,0 +1,2074 @@
+fileid: 1
+storage: 1
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: -1
+mtime: 1709903379
+storage_mtime: 1709903379
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0e132e240
+permissions: 23
+checksum: 
+
+fileid: 2
+storage: 1
+path: files_external
+path_hash: c270928b685e7946199afdfb898d27ea
+parent: 1
+name: files_external
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709903379
+storage_mtime: 1709903379
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0e132b35a
+permissions: 31
+checksum: 
+
+fileid: 3
+storage: 2
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 5201140
+mtime: 1710776994
+storage_mtime: 1709905470
+encrypted: 0
+unencrypted_size: 0
+etag: 65f862a204dc9
+permissions: 31
+checksum: <nil>
+
+fileid: 4
+storage: 2
+path: files
+path_hash: 45b963397aa40d4a0063e0d85e4fe7a1
+parent: 3
+name: files
+mimetype: 2
+mimepart: 1
+size: 4688722
+mtime: 1710776908
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65f8624c792c7
+permissions: 31
+checksum: <nil>
+
+fileid: 5
+storage: 5
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709903402
+storage_mtime: 1709903402
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0e2a25938
+permissions: 31
+checksum: <nil>
+
+fileid: 6
+storage: 3
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 14
+mtime: 1709903402
+storage_mtime: 1709903346
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0e2a10071
+permissions: 23
+checksum: 
+
+fileid: 7
+storage: 3
+path: hello.txt
+path_hash: 2e54144ba487ae25d03a3caba233da71
+parent: 6
+name: hello.txt
+mimetype: 4
+mimepart: 3
+size: 14
+mtime: 1709903346
+storage_mtime: 1709903346
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0e2a0e6a7
+permissions: 27
+checksum: SHA1:09fac8dbfd27bd9b4d23a00eb648aa751789536d MD5:746308829575e17c3331bbcb00c0898b ADLER32:24f20494
+
+fileid: 8
+storage: 5
+path: avatars
+path_hash: aec9f4efc5a055bbd053f220538c61e0
+parent: 5
+name: avatars
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709903402
+storage_mtime: 1709903402
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0e2a16e62
+permissions: 31
+checksum: <nil>
+
+fileid: 9
+storage: 5
+path: files_external
+path_hash: c270928b685e7946199afdfb898d27ea
+parent: 5
+name: files_external
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709903402
+storage_mtime: 1709903402
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0e2a2457b
+permissions: 31
+checksum: <nil>
+
+fileid: 11
+storage: 6
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 5134603
+mtime: 1709905536
+storage_mtime: 1709905503
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb175cc2a52
+permissions: 31
+checksum: <nil>
+
+fileid: 12
+storage: 6
+path: files
+path_hash: 45b963397aa40d4a0063e0d85e4fe7a1
+parent: 11
+name: files
+mimetype: 2
+mimepart: 1
+size: 4690376
+mtime: 1709905533
+storage_mtime: 1709905531
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb175cc2a52
+permissions: 31
+checksum: <nil>
+
+fileid: 13
+storage: 8
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 4701270
+mtime: 1709905569
+storage_mtime: 1709905567
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb16a18bdfa
+permissions: 31
+checksum: <nil>
+
+fileid: 14
+storage: 8
+path: files
+path_hash: 45b963397aa40d4a0063e0d85e4fe7a1
+parent: 13
+name: files
+mimetype: 2
+mimepart: 1
+size: 4688571
+mtime: 1709905567
+storage_mtime: 1709905566
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb169f2f9ed
+permissions: 31
+checksum: <nil>
+
+fileid: 15
+storage: 10
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709903638
+storage_mtime: 1709903638
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0f1631089
+permissions: 31
+checksum: <nil>
+
+fileid: 16
+storage: 10
+path: files
+path_hash: 45b963397aa40d4a0063e0d85e4fe7a1
+parent: 15
+name: files
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709903638
+storage_mtime: 1709903638
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0f16317c2
+permissions: 31
+checksum: <nil>
+
+fileid: 17
+storage: 12
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709903638
+storage_mtime: 1709903638
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0f16757f4
+permissions: 31
+checksum: <nil>
+
+fileid: 18
+storage: 12
+path: files
+path_hash: 45b963397aa40d4a0063e0d85e4fe7a1
+parent: 17
+name: files
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709903638
+storage_mtime: 1709903638
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0f1676017
+permissions: 31
+checksum: <nil>
+
+fileid: 19
+storage: 14
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709903638
+storage_mtime: 1709903638
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0f16b1af2
+permissions: 31
+checksum: <nil>
+
+fileid: 20
+storage: 14
+path: files
+path_hash: 45b963397aa40d4a0063e0d85e4fe7a1
+parent: 19
+name: files
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709903638
+storage_mtime: 1709903638
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb0f16b2208
+permissions: 31
+checksum: <nil>
+
+fileid: 21
+storage: 2
+path: cache
+path_hash: 0fea6a13c52b4d4725368f24b045ca84
+parent: 3
+name: cache
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709905467
+storage_mtime: 1709905467
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163bb9d3c
+permissions: 31
+checksum: <nil>
+
+fileid: 22
+storage: 2
+path: files/Photos
+path_hash: d01bb67e7b71dd49fd06bad922f521c9
+parent: 4
+name: Photos
+mimetype: 2
+mimepart: 1
+size: 1011464
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163c18653
+permissions: 31
+checksum: <nil>
+
+fileid: 23
+storage: 2
+path: files/Photos/Teotihuacan.jpg
+path_hash: 704b0aeb1b065272539e87218dee5f7a
+parent: 22
+name: Teotihuacan.jpg
+mimetype: 6
+mimepart: 5
+size: 228789
+mtime: 1709905467
+storage_mtime: 1709905467
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163be8a30
+permissions: 27
+checksum: 
+
+fileid: 24
+storage: 2
+path: files/Photos/Portugal.jpg
+path_hash: 99079102f2763830ef072aa7459c0b13
+parent: 22
+name: Portugal.jpg
+mimetype: 6
+mimepart: 5
+size: 243733
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163c0b5e5
+permissions: 27
+checksum: 
+
+fileid: 25
+storage: 2
+path: files/Photos/Lake-Constance.jpg
+path_hash: 7055b85346dc19417e7f3d7b3e7a154a
+parent: 22
+name: Lake-Constance.jpg
+mimetype: 6
+mimepart: 5
+size: 538942
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163c1efb4
+permissions: 27
+checksum: 
+
+fileid: 26
+storage: 2
+path: files/Documents
+path_hash: 0ad78ba05b6961d92f7970b2b3922eca
+parent: 4
+name: Documents
+mimetype: 2
+mimepart: 1
+size: 36394
+mtime: 1710776908
+storage_mtime: 1710251967
+encrypted: 0
+unencrypted_size: 0
+etag: 65f8624c792c7
+permissions: 31
+checksum: <nil>
+
+fileid: 27
+storage: 2
+path: files/Documents/Fun_with_😃_Smileys.odt
+path_hash: 7654096796a3c61973605184ba5a9f13
+parent: 26
+name: Fun_with_😃_Smileys.odt
+mimetype: 8
+mimepart: 7
+size: 36227
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163c35c01
+permissions: 27
+checksum: SHA1:a2c861e88db506c0deadb9f7d78a1e27212ce9fc MD5:12348c01fb20e0230c1afdacfe514308 ADLER32:85ffdff5
+
+fileid: 28
+storage: 2
+path: files/Learn more about ownCloud
+path_hash: d2973fb874c5912ffd5bb0641c5ea684
+parent: 4
+name: Learn more about ownCloud
+mimetype: 2
+mimepart: 1
+size: 3640864
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163ca88a3
+permissions: 31
+checksum: <nil>
+
+fileid: 29
+storage: 2
+path: files/Learn more about ownCloud/ownCloud Subscription Overview.pdf
+path_hash: 82c512590823b9f60241661147b6ee3e
+parent: 28
+name: ownCloud Subscription Overview.pdf
+mimetype: 9
+mimepart: 7
+size: 1611431
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163c4ffe0
+permissions: 27
+checksum: <nil>
+
+fileid: 30
+storage: 2
+path: files/Learn more about ownCloud/Data Protection and Data Secrecy in ownCloud.pdf
+path_hash: 3fefc5573101667f6ec8765e03f603fd
+parent: 28
+name: Data Protection and Data Secrecy in ownCloud.pdf
+mimetype: 9
+mimepart: 7
+size: 418526
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163c671d0
+permissions: 27
+checksum: <nil>
+
+fileid: 31
+storage: 2
+path: files/Learn more about ownCloud/Keep your files safe with ownCloud.pdf
+path_hash: 2745d631ba3df00ecc0639ba1e65f004
+parent: 28
+name: Keep your files safe with ownCloud.pdf
+mimetype: 9
+mimepart: 7
+size: 755022
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163c79699
+permissions: 27
+checksum: <nil>
+
+fileid: 32
+storage: 2
+path: files/Learn more about ownCloud/Share files efficiently in your company.pdf
+path_hash: bdf0d315b6e669549e4b0315df88efc0
+parent: 28
+name: Share files efficiently in your company.pdf
+mimetype: 9
+mimepart: 7
+size: 303237
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163c8c6cf
+permissions: 27
+checksum: <nil>
+
+fileid: 33
+storage: 2
+path: files/Learn more about ownCloud/Safely leverage Microsoft Office.pdf
+path_hash: 5a0b23e984d4aba3d4ec45dd7993a9e2
+parent: 28
+name: Safely leverage Microsoft Office.pdf
+mimetype: 9
+mimepart: 7
+size: 314348
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163c9d75c
+permissions: 27
+checksum: <nil>
+
+fileid: 34
+storage: 2
+path: files/Learn more about ownCloud/Introducing ownCloud.pdf
+path_hash: b9ec9d71f18517b94c9c4f89383c1c0d
+parent: 28
+name: Introducing ownCloud.pdf
+mimetype: 9
+mimepart: 7
+size: 238300
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163caeaf9
+permissions: 27
+checksum: SHA1:5f347dcebb39e84114bcd9a46fb3a4c2f49ad146 MD5:c511ba341ba6aad2e28f47770b184b88 ADLER32:89780720
+
+fileid: 35
+storage: 5
+path: files_external/rootcerts.crt
+path_hash: 96f0eb1b0b28e846975c98dbeb5e734d
+parent: 9
+name: rootcerts.crt
+mimetype: 4
+mimepart: 3
+size: 220185
+mtime: 1709905468
+storage_mtime: 1709905468
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163cf29d3
+permissions: 27
+checksum: <nil>
+
+fileid: 36
+storage: 2
+path: files_external
+path_hash: c270928b685e7946199afdfb898d27ea
+parent: 3
+name: files_external
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709905470
+storage_mtime: 1709905470
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb163ea16ef
+permissions: 31
+checksum: <nil>
+
+fileid: 37
+storage: 6
+path: cache
+path_hash: 0fea6a13c52b4d4725368f24b045ca84
+parent: 11
+name: cache
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165d206df
+permissions: 31
+checksum: <nil>
+
+fileid: 38
+storage: 6
+path: files/Photos
+path_hash: d01bb67e7b71dd49fd06bad922f521c9
+parent: 12
+name: Photos
+mimetype: 2
+mimepart: 1
+size: 1011464
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165d5737c
+permissions: 31
+checksum: <nil>
+
+fileid: 39
+storage: 6
+path: files/Photos/Teotihuacan.jpg
+path_hash: 704b0aeb1b065272539e87218dee5f7a
+parent: 38
+name: Teotihuacan.jpg
+mimetype: 6
+mimepart: 5
+size: 228789
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165d38840
+permissions: 27
+checksum: 
+
+fileid: 40
+storage: 6
+path: files/Photos/Portugal.jpg
+path_hash: 99079102f2763830ef072aa7459c0b13
+parent: 38
+name: Portugal.jpg
+mimetype: 6
+mimepart: 5
+size: 243733
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165d4b706
+permissions: 27
+checksum: 
+
+fileid: 41
+storage: 6
+path: files/Photos/Lake-Constance.jpg
+path_hash: 7055b85346dc19417e7f3d7b3e7a154a
+parent: 38
+name: Lake-Constance.jpg
+mimetype: 6
+mimepart: 5
+size: 538942
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165d5d78c
+permissions: 27
+checksum: 
+
+fileid: 42
+storage: 6
+path: files/Documents
+path_hash: 0ad78ba05b6961d92f7970b2b3922eca
+parent: 12
+name: Documents
+mimetype: 2
+mimepart: 1
+size: 38025
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb175cc2a52
+permissions: 31
+checksum: <nil>
+
+fileid: 43
+storage: 6
+path: files/Documents/Example.odt
+path_hash: c89c560541b952a435783a7d51a27d50
+parent: 42
+name: Example.odt
+mimetype: 8
+mimepart: 7
+size: 36227
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165d74890
+permissions: 27
+checksum: <nil>
+
+fileid: 44
+storage: 6
+path: files/Learn more about ownCloud
+path_hash: d2973fb874c5912ffd5bb0641c5ea684
+parent: 12
+name: Learn more about ownCloud
+mimetype: 2
+mimepart: 1
+size: 3640864
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165df3971
+permissions: 31
+checksum: <nil>
+
+fileid: 45
+storage: 6
+path: files/Learn more about ownCloud/ownCloud Subscription Overview.pdf
+path_hash: 82c512590823b9f60241661147b6ee3e
+parent: 44
+name: ownCloud Subscription Overview.pdf
+mimetype: 9
+mimepart: 7
+size: 1611431
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165d9018b
+permissions: 27
+checksum: <nil>
+
+fileid: 46
+storage: 6
+path: files/Learn more about ownCloud/Data Protection and Data Secrecy in ownCloud.pdf
+path_hash: 3fefc5573101667f6ec8765e03f603fd
+parent: 44
+name: Data Protection and Data Secrecy in ownCloud.pdf
+mimetype: 9
+mimepart: 7
+size: 418526
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165dac27f
+permissions: 27
+checksum: 
+
+fileid: 47
+storage: 6
+path: files/Learn more about ownCloud/Keep your files safe with ownCloud.pdf
+path_hash: 2745d631ba3df00ecc0639ba1e65f004
+parent: 44
+name: Keep your files safe with ownCloud.pdf
+mimetype: 9
+mimepart: 7
+size: 755022
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165dc1053
+permissions: 27
+checksum: <nil>
+
+fileid: 48
+storage: 6
+path: files/Learn more about ownCloud/Share files efficiently in your company.pdf
+path_hash: bdf0d315b6e669549e4b0315df88efc0
+parent: 44
+name: Share files efficiently in your company.pdf
+mimetype: 9
+mimepart: 7
+size: 303237
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165dd4317
+permissions: 27
+checksum: <nil>
+
+fileid: 49
+storage: 6
+path: files/Learn more about ownCloud/Safely leverage Microsoft Office.pdf
+path_hash: 5a0b23e984d4aba3d4ec45dd7993a9e2
+parent: 44
+name: Safely leverage Microsoft Office.pdf
+mimetype: 9
+mimepart: 7
+size: 314348
+mtime: 1709905501
+storage_mtime: 1709905501
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165de7485
+permissions: 27
+checksum: <nil>
+
+fileid: 50
+storage: 6
+path: files/Learn more about ownCloud/Introducing ownCloud.pdf
+path_hash: b9ec9d71f18517b94c9c4f89383c1c0d
+parent: 44
+name: Introducing ownCloud.pdf
+mimetype: 9
+mimepart: 7
+size: 238300
+mtime: 1709905502
+storage_mtime: 1709905502
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165e058ac
+permissions: 27
+checksum: SHA1:5f347dcebb39e84114bcd9a46fb3a4c2f49ad146 MD5:c511ba341ba6aad2e28f47770b184b88 ADLER32:89780720
+
+fileid: 51
+storage: 6
+path: files_external
+path_hash: c270928b685e7946199afdfb898d27ea
+parent: 11
+name: files_external
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709905503
+storage_mtime: 1709905503
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb165f44434
+permissions: 31
+checksum: <nil>
+
+fileid: 52
+storage: 6
+path: thumbnails
+path_hash: 3b8779ba05b8f0aed49650f3ff8beb4b
+parent: 11
+name: thumbnails
+mimetype: 2
+mimepart: 1
+size: 444227
+mtime: 1709905536
+storage_mtime: 1709905515
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb16800d587
+permissions: 31
+checksum: <nil>
+
+fileid: 53
+storage: 6
+path: thumbnails/40
+path_hash: 69974afa13182a0eaae92fc8bbf446ba
+parent: 52
+name: 40
+mimetype: 2
+mimepart: 1
+size: 127111
+mtime: 1709905515
+storage_mtime: 1709905515
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb166b8ee18
+permissions: 31
+checksum: <nil>
+
+fileid: 54
+storage: 6
+path: thumbnails/39
+path_hash: 03c58882ea551f1b5c876306ffe9d583
+parent: 52
+name: 39
+mimetype: 2
+mimepart: 1
+size: 90140
+mtime: 1709905515
+storage_mtime: 1709905515
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb166b8f0f7
+permissions: 31
+checksum: <nil>
+
+fileid: 55
+storage: 6
+path: thumbnails/40/1024-768-max.png
+path_hash: 6d05d6e2ab577ef8914f0e26cfcab4e2
+parent: 53
+name: 1024-768-max.png
+mimetype: 10
+mimepart: 5
+size: 126124
+mtime: 1709905515
+storage_mtime: 1709905515
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb166b812a5
+permissions: 27
+checksum: SHA1:086cebd754e5c9904bbaa2dc059a6121a14de04c MD5:5c2870efdf5d7801fa3130dadb51fd19 ADLER32:3ba5ac68
+
+fileid: 56
+storage: 6
+path: thumbnails/39/1024-768-max.png
+path_hash: 9db7c64d1710ac8fc5d9b42f3002e1b8
+parent: 54
+name: 1024-768-max.png
+mimetype: 10
+mimepart: 5
+size: 89157
+mtime: 1709905515
+storage_mtime: 1709905515
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb166b8271f
+permissions: 27
+checksum: SHA1:d6153622a1cd5f1a4461714093fd79fa1a4b9eff MD5:4ae275ee9657ef18a8d00f2d6531e635 ADLER32:f116b037
+
+fileid: 57
+storage: 6
+path: thumbnails/41
+path_hash: 5133784e3ec950b4bb81dc56cd0361fb
+parent: 52
+name: 41
+mimetype: 2
+mimepart: 1
+size: 211959
+mtime: 1709905515
+storage_mtime: 1709905515
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb166b998ef
+permissions: 31
+checksum: <nil>
+
+fileid: 58
+storage: 6
+path: thumbnails/40/32-32.png
+path_hash: ac023d46a223625f2d679fa7accea667
+parent: 53
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 987
+mtime: 1709905515
+storage_mtime: 1709905515
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb166b89bd2
+permissions: 27
+checksum: SHA1:f72980bb05cbe8ec30777d1ddf156f911ba7c414 MD5:59aae1bc7c85d72613727be6de83a750 ADLER32:f4067c0a
+
+fileid: 59
+storage: 6
+path: thumbnails/39/32-32.png
+path_hash: 80c3d0877355599e96a52782968f7a23
+parent: 54
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 983
+mtime: 1709905515
+storage_mtime: 1709905515
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb166b8a049
+permissions: 27
+checksum: SHA1:4f5c76deb663eff0303b8f9d5fe2e2729b5e620c MD5:54e2d22d09fc5b2fb7c2730a9a820d88 ADLER32:7ed974ef
+
+fileid: 60
+storage: 6
+path: thumbnails/41/2048-541-max.png
+path_hash: 9f0d6de7f32ad44641f279bdf6b38e2a
+parent: 57
+name: 2048-541-max.png
+mimetype: 10
+mimepart: 5
+size: 210954
+mtime: 1709905515
+storage_mtime: 1709905515
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb166b8ba1c
+permissions: 27
+checksum: SHA1:a55d92a36a7832bc13984579b90cc20d20d7b06e MD5:2034c2800e886c84d4a82c6eca289713 ADLER32:96a73b28
+
+fileid: 61
+storage: 6
+path: thumbnails/41/32-32.png
+path_hash: d54462f55c6dfdd1c5875b53e789040f
+parent: 57
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 1005
+mtime: 1709905515
+storage_mtime: 1709905515
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb166b948a2
+permissions: 27
+checksum: SHA1:91cb60504116f9346b69377c13b0e9025071d168 MD5:267888663f4428eb7704213fe2a6b6a1 ADLER32:a42b87e2
+
+fileid: 62
+storage: 6
+path: files/Hello.txt
+path_hash: f9f87f9486e0cd8eef8890266328bc79
+parent: 12
+name: Hello.txt
+mimetype: 4
+mimepart: 3
+size: 23
+mtime: 1709905533
+storage_mtime: 1709905533
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb167dbf4d1
+permissions: 27
+checksum: SHA1:7fddc1f0c4a97f3d48904a459da80af32048cdab MD5:8df8a3fd648a074abb2fbdbf4ad2b2cf ADLER32:64030804
+
+fileid: 63
+storage: 6
+path: thumbnails/62
+path_hash: ba723dca6d7666df897eb8580387afbf
+parent: 52
+name: 62
+mimetype: 2
+mimepart: 1
+size: 15017
+mtime: 1709905536
+storage_mtime: 1709905535
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb16800d587
+permissions: 31
+checksum: <nil>
+
+fileid: 64
+storage: 6
+path: thumbnails/62/2048-2048-max.png
+path_hash: e362072c7e481099c1fc894923b7c0ae
+parent: 63
+name: 2048-2048-max.png
+mimetype: 10
+mimepart: 5
+size: 14527
+mtime: 1709905535
+storage_mtime: 1709905535
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb167fe95be
+permissions: 27
+checksum: SHA1:45ceb52b7dc9abd1cc741970cd031fbc0f443b8e MD5:d2b385f5fe49777e869767fb820d4c82 ADLER32:1abb40e1
+
+fileid: 65
+storage: 6
+path: thumbnails/62/32-32.png
+path_hash: 9a1a48a0fcbe98c8afd2f59a182eddf7
+parent: 63
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 490
+mtime: 1709905536
+storage_mtime: 1709905536
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168007ca5
+permissions: 27
+checksum: SHA1:6956c57f49824b28f6e9038332afbfa8622147b1 MD5:10a6c1e9f01e4bdb8e45bf7a53ccbf97 ADLER32:1628e344
+
+fileid: 66
+storage: 8
+path: cache
+path_hash: 0fea6a13c52b4d4725368f24b045ca84
+parent: 13
+name: cache
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168b39544
+permissions: 31
+checksum: <nil>
+
+fileid: 67
+storage: 8
+path: files/Photos
+path_hash: d01bb67e7b71dd49fd06bad922f521c9
+parent: 14
+name: Photos
+mimetype: 2
+mimepart: 1
+size: 1011464
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168b6dd75
+permissions: 31
+checksum: <nil>
+
+fileid: 68
+storage: 8
+path: files/Photos/Teotihuacan.jpg
+path_hash: 704b0aeb1b065272539e87218dee5f7a
+parent: 67
+name: Teotihuacan.jpg
+mimetype: 6
+mimepart: 5
+size: 228789
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168b50e51
+permissions: 27
+checksum: <nil>
+
+fileid: 69
+storage: 8
+path: files/Photos/Portugal.jpg
+path_hash: 99079102f2763830ef072aa7459c0b13
+parent: 67
+name: Portugal.jpg
+mimetype: 6
+mimepart: 5
+size: 243733
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168b62a31
+permissions: 27
+checksum: <nil>
+
+fileid: 70
+storage: 8
+path: files/Photos/Lake-Constance.jpg
+path_hash: 7055b85346dc19417e7f3d7b3e7a154a
+parent: 67
+name: Lake-Constance.jpg
+mimetype: 6
+mimepart: 5
+size: 538942
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168b73f39
+permissions: 27
+checksum: <nil>
+
+fileid: 71
+storage: 8
+path: files/Documents
+path_hash: 0ad78ba05b6961d92f7970b2b3922eca
+parent: 14
+name: Documents
+mimetype: 2
+mimepart: 1
+size: 36227
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168b85593
+permissions: 31
+checksum: <nil>
+
+fileid: 72
+storage: 8
+path: files/Documents/Example.odt
+path_hash: c89c560541b952a435783a7d51a27d50
+parent: 71
+name: Example.odt
+mimetype: 8
+mimepart: 7
+size: 36227
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168b8b240
+permissions: 27
+checksum: <nil>
+
+fileid: 73
+storage: 8
+path: files/Learn more about ownCloud
+path_hash: d2973fb874c5912ffd5bb0641c5ea684
+parent: 14
+name: Learn more about ownCloud
+mimetype: 2
+mimepart: 1
+size: 3640864
+mtime: 1709905548
+storage_mtime: 1709905548
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168c0c79c
+permissions: 31
+checksum: <nil>
+
+fileid: 74
+storage: 8
+path: files/Learn more about ownCloud/ownCloud Subscription Overview.pdf
+path_hash: 82c512590823b9f60241661147b6ee3e
+parent: 73
+name: ownCloud Subscription Overview.pdf
+mimetype: 9
+mimepart: 7
+size: 1611431
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168ba3d41
+permissions: 27
+checksum: <nil>
+
+fileid: 75
+storage: 8
+path: files/Learn more about ownCloud/Data Protection and Data Secrecy in ownCloud.pdf
+path_hash: 3fefc5573101667f6ec8765e03f603fd
+parent: 73
+name: Data Protection and Data Secrecy in ownCloud.pdf
+mimetype: 9
+mimepart: 7
+size: 418526
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168bb947f
+permissions: 27
+checksum: <nil>
+
+fileid: 76
+storage: 8
+path: files/Learn more about ownCloud/Keep your files safe with ownCloud.pdf
+path_hash: 2745d631ba3df00ecc0639ba1e65f004
+parent: 73
+name: Keep your files safe with ownCloud.pdf
+mimetype: 9
+mimepart: 7
+size: 755022
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168bcd58e
+permissions: 27
+checksum: <nil>
+
+fileid: 77
+storage: 8
+path: files/Learn more about ownCloud/Share files efficiently in your company.pdf
+path_hash: bdf0d315b6e669549e4b0315df88efc0
+parent: 73
+name: Share files efficiently in your company.pdf
+mimetype: 9
+mimepart: 7
+size: 303237
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168be1317
+permissions: 27
+checksum: <nil>
+
+fileid: 78
+storage: 8
+path: files/Learn more about ownCloud/Safely leverage Microsoft Office.pdf
+path_hash: 5a0b23e984d4aba3d4ec45dd7993a9e2
+parent: 73
+name: Safely leverage Microsoft Office.pdf
+mimetype: 9
+mimepart: 7
+size: 314348
+mtime: 1709905547
+storage_mtime: 1709905547
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168bf3abb
+permissions: 27
+checksum: <nil>
+
+fileid: 79
+storage: 8
+path: files/Learn more about ownCloud/Introducing ownCloud.pdf
+path_hash: b9ec9d71f18517b94c9c4f89383c1c0d
+parent: 73
+name: Introducing ownCloud.pdf
+mimetype: 9
+mimepart: 7
+size: 238300
+mtime: 1709905548
+storage_mtime: 1709905548
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168c13428
+permissions: 27
+checksum: <nil>
+
+fileid: 80
+storage: 8
+path: files_external
+path_hash: c270928b685e7946199afdfb898d27ea
+parent: 13
+name: files_external
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709905548
+storage_mtime: 1709905548
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb168cd17c6
+permissions: 31
+checksum: <nil>
+
+fileid: 81
+storage: 8
+path: files/Hello.txt
+path_hash: f9f87f9486e0cd8eef8890266328bc79
+parent: 14
+name: Hello.txt
+mimetype: 4
+mimepart: 3
+size: 16
+mtime: 1709905567
+storage_mtime: 1709905567
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb169f2a93c
+permissions: 27
+checksum: SHA1:88eb55edf2623f30b33b48c475486b71df14ba3b MD5:c2557cda63629f84e2c05f949d5bd3a5 ADLER32:2edb0556
+
+fileid: 82
+storage: 8
+path: thumbnails
+path_hash: 3b8779ba05b8f0aed49650f3ff8beb4b
+parent: 13
+name: thumbnails
+mimetype: 2
+mimepart: 1
+size: 12699
+mtime: 1709905569
+storage_mtime: 1709905569
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb16a18bdfa
+permissions: 31
+checksum: <nil>
+
+fileid: 83
+storage: 8
+path: thumbnails/81
+path_hash: d2479680e6000db0111f1ee41a406520
+parent: 82
+name: 81
+mimetype: 2
+mimepart: 1
+size: 12699
+mtime: 1709905569
+storage_mtime: 1709905569
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb16a18bdfa
+permissions: 31
+checksum: <nil>
+
+fileid: 84
+storage: 8
+path: thumbnails/81/2048-2048-max.png
+path_hash: 2bb7ce11922a4bbcc1322e7bdf4013d1
+parent: 83
+name: 2048-2048-max.png
+mimetype: 10
+mimepart: 5
+size: 12210
+mtime: 1709905569
+storage_mtime: 1709905569
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb16a1767c4
+permissions: 27
+checksum: SHA1:4e0fa6ec4e2bba619ff1acc66b25276c38011d6c MD5:dd60593833e0363f61124204a9dcd0f5 ADLER32:c027e756
+
+fileid: 85
+storage: 8
+path: thumbnails/81/32-32.png
+path_hash: 51fe3a69c2faef204963b9e58ecbf11c
+parent: 83
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 489
+mtime: 1709905569
+storage_mtime: 1709905569
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb16a1870c0
+permissions: 27
+checksum: SHA1:b342971a79fcb16b21093f9056b8583cc559423a MD5:458e60ebaed484675625354252d24f89 ADLER32:f351d862
+
+fileid: 86
+storage: 6
+path: files/Documents/s3_ops02_list.go
+path_hash: 0d53935cb0cc398290d56725ec61ba13
+parent: 42
+name: s3_ops02_list.go
+mimetype: 11
+mimepart: 3
+size: 1798
+mtime: 1709891607
+storage_mtime: 1709905756
+encrypted: 0
+unencrypted_size: 0
+etag: 65eb175cb9fe9
+permissions: 27
+checksum: SHA1:29b8b3d6c586faadc3b5de9abd05d91c1391e252 MD5:709e549d98e8bcc75f59f6e3abafba13 ADLER32:6d124665
+
+fileid: 87
+storage: 4
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709949601
+storage_mtime: 1709949601
+encrypted: 0
+unencrypted_size: 0
+etag: 65ebc2a132f6b
+permissions: 23
+checksum: <nil>
+
+fileid: 88
+storage: 7
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709949601
+storage_mtime: 1709949601
+encrypted: 0
+unencrypted_size: 0
+etag: 65ebc2a135aea
+permissions: 23
+checksum: <nil>
+
+fileid: 89
+storage: 9
+path: 
+path_hash: d41d8cd98f00b204e9800998ecf8427e
+parent: -1
+name: 
+mimetype: 2
+mimepart: 1
+size: 0
+mtime: 1709949601
+storage_mtime: 1709949601
+encrypted: 0
+unencrypted_size: 0
+etag: 65ebc2a1379b7
+permissions: 23
+checksum: <nil>
+
+fileid: 90
+storage: 2
+path: thumbnails
+path_hash: 3b8779ba05b8f0aed49650f3ff8beb4b
+parent: 3
+name: thumbnails
+mimetype: 2
+mimepart: 1
+size: 512418
+mtime: 1710776994
+storage_mtime: 1710249940
+encrypted: 0
+unencrypted_size: 0
+etag: 65f862a204dc9
+permissions: 31
+checksum: <nil>
+
+fileid: 91
+storage: 2
+path: thumbnails/7
+path_hash: 6faab433a48974ab4ae1fb6910b507e5
+parent: 90
+name: 7
+mimetype: 2
+mimepart: 1
+size: 12494
+mtime: 1710233524
+storage_mtime: 1710233524
+encrypted: 0
+unencrypted_size: 0
+etag: 65f017b4b43ec
+permissions: 31
+checksum: <nil>
+
+fileid: 92
+storage: 2
+path: thumbnails/7/2048-2048-max.png
+path_hash: 42e61d47253ed02e71533799005dcd47
+parent: 91
+name: 2048-2048-max.png
+mimetype: 10
+mimepart: 5
+size: 12081
+mtime: 1710233524
+storage_mtime: 1710233524
+encrypted: 0
+unencrypted_size: 0
+etag: 65f017b495bc2
+permissions: 27
+checksum: SHA1:0a57657e09a523124661a534a89178bcc407563a MD5:1dfd2ca3b611834246162af79ea1851d ADLER32:0d3a3b43
+
+fileid: 93
+storage: 2
+path: thumbnails/7/32-32.png
+path_hash: 1b28a6df4e444e18d6a64f5f1a2a0bd3
+parent: 91
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 413
+mtime: 1710233524
+storage_mtime: 1710233524
+encrypted: 0
+unencrypted_size: 0
+etag: 65f017b4aacf2
+permissions: 27
+checksum: SHA1:3c1e7db7a296c6d2ac8b88fb5e0e1f709534669c MD5:c52d87831f4d3f30f73026e79133211d ADLER32:3a9baf83
+
+fileid: 94
+storage: 2
+path: thumbnails/24
+path_hash: d1a8fc35c5ef899143f88432693f8263
+parent: 90
+name: 24
+mimetype: 2
+mimepart: 1
+size: 127111
+mtime: 1710249240
+storage_mtime: 1710249240
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0551824100
+permissions: 31
+checksum: <nil>
+
+fileid: 95
+storage: 2
+path: thumbnails/24/1024-768-max.png
+path_hash: e2c305abc4d6efedc8eb8ac5db5d2afe
+parent: 94
+name: 1024-768-max.png
+mimetype: 10
+mimepart: 5
+size: 126124
+mtime: 1710249240
+storage_mtime: 1710249240
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0551805973
+permissions: 27
+checksum: SHA1:086cebd754e5c9904bbaa2dc059a6121a14de04c MD5:5c2870efdf5d7801fa3130dadb51fd19 ADLER32:3ba5ac68
+
+fileid: 96
+storage: 2
+path: thumbnails/24/32-32.png
+path_hash: bbbb0b79deeb2e3eab0f05797586f4ff
+parent: 94
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 987
+mtime: 1710249240
+storage_mtime: 1710249240
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0551815542
+permissions: 27
+checksum: SHA1:f72980bb05cbe8ec30777d1ddf156f911ba7c414 MD5:59aae1bc7c85d72613727be6de83a750 ADLER32:f4067c0a
+
+fileid: 97
+storage: 2
+path: thumbnails/23
+path_hash: 44d5bfbdde2531d3c0ba65c1ea6b030f
+parent: 90
+name: 23
+mimetype: 2
+mimepart: 1
+size: 90140
+mtime: 1710249240
+storage_mtime: 1710249240
+encrypted: 0
+unencrypted_size: 0
+etag: 65f055182ad39
+permissions: 31
+checksum: <nil>
+
+fileid: 98
+storage: 2
+path: thumbnails/23/1024-768-max.png
+path_hash: aaa6f5df4d53ca307468669a969baa6b
+parent: 97
+name: 1024-768-max.png
+mimetype: 10
+mimepart: 5
+size: 89157
+mtime: 1710249240
+storage_mtime: 1710249240
+encrypted: 0
+unencrypted_size: 0
+etag: 65f055181b2c0
+permissions: 27
+checksum: SHA1:d6153622a1cd5f1a4461714093fd79fa1a4b9eff MD5:4ae275ee9657ef18a8d00f2d6531e635 ADLER32:f116b037
+
+fileid: 99
+storage: 2
+path: thumbnails/25
+path_hash: 546aa08562c4957c03ffd7a0aa5b2e67
+parent: 90
+name: 25
+mimetype: 2
+mimepart: 1
+size: 211959
+mtime: 1710249240
+storage_mtime: 1710249240
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0551831112
+permissions: 31
+checksum: <nil>
+
+fileid: 100
+storage: 2
+path: thumbnails/25/2048-541-max.png
+path_hash: bcb9790c775519696595beff029e2a52
+parent: 99
+name: 2048-541-max.png
+mimetype: 10
+mimepart: 5
+size: 210954
+mtime: 1710249240
+storage_mtime: 1710249240
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0551823f8e
+permissions: 27
+checksum: SHA1:a55d92a36a7832bc13984579b90cc20d20d7b06e MD5:2034c2800e886c84d4a82c6eca289713 ADLER32:96a73b28
+
+fileid: 101
+storage: 2
+path: thumbnails/23/32-32.png
+path_hash: 01766a2f35ab26b919ed49f999020014
+parent: 97
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 983
+mtime: 1710249240
+storage_mtime: 1710249240
+encrypted: 0
+unencrypted_size: 0
+etag: 65f05518265bf
+permissions: 27
+checksum: SHA1:4f5c76deb663eff0303b8f9d5fe2e2729b5e620c MD5:54e2d22d09fc5b2fb7c2730a9a820d88 ADLER32:7ed974ef
+
+fileid: 102
+storage: 2
+path: thumbnails/25/32-32.png
+path_hash: 2bb0c33f4dbb5727ecca1e3b9e1747ad
+parent: 99
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 1005
+mtime: 1710249240
+storage_mtime: 1710249240
+encrypted: 0
+unencrypted_size: 0
+etag: 65f055182c6a4
+permissions: 27
+checksum: SHA1:91cb60504116f9346b69377c13b0e9025071d168 MD5:267888663f4428eb7704213fe2a6b6a1 ADLER32:a42b87e2
+
+fileid: 103
+storage: 2
+path: files/Documents/Årings_Report_2024.txt
+path_hash: a5c4a3942965ed80b00a770ddda433de
+parent: 26
+name: Årings_Report_2024.txt
+mimetype: 4
+mimepart: 3
+size: 16
+mtime: 1710249286
+storage_mtime: 1710249286
+encrypted: 0
+unencrypted_size: 0
+etag: 65f05546e8ee8
+permissions: 27
+checksum: SHA1:03e1d69a2cda35ed6568c3b2314154a22f888911 MD5:5c222ff409b5915778db8adfedf3b4b3 ADLER32:332c0590
+
+fileid: 104
+storage: 2
+path: thumbnails/103
+path_hash: 9405e5b72b699393d4e98aed153257b5
+parent: 90
+name: 103
+mimetype: 2
+mimepart: 1
+size: 15457
+mtime: 1710249847
+storage_mtime: 1710249289
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0577748ae8
+permissions: 31
+checksum: <nil>
+
+fileid: 105
+storage: 2
+path: thumbnails/103/2048-2048-max.png
+path_hash: effe3f4f530c3e9eb8053fdbabc2f9cd
+parent: 104
+name: 2048-2048-max.png
+mimetype: 10
+mimepart: 5
+size: 13967
+mtime: 1710249288
+storage_mtime: 1710249288
+encrypted: 0
+unencrypted_size: 0
+etag: 65f05548f30e7
+permissions: 27
+checksum: SHA1:56674339bd2fb2020cc6a856bbd2af4497383864 MD5:489945c38286b37a5f99177a5b8836a3 ADLER32:c74e3452
+
+fileid: 106
+storage: 2
+path: thumbnails/103/32-32.png
+path_hash: d993f616c9d0810976e7929316acf552
+parent: 104
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 486
+mtime: 1710249289
+storage_mtime: 1710249289
+encrypted: 0
+unencrypted_size: 0
+etag: 65f05549103d9
+permissions: 27
+checksum: SHA1:c66666e1b40cfa719823bb7d1f282e3ffd55a9eb MD5:5d5bee9eb77865470d496526ce55eb82 ADLER32:ffd2ceef
+
+fileid: 107
+storage: 2
+path: files/Documents/Ångström_🔬.txt
+path_hash: 8c0ce8979fca8d79f1c9a1e04f8eb31a
+parent: 26
+name: Ångström_🔬.txt
+mimetype: 4
+mimepart: 3
+size: 24
+mtime: 1710249356
+storage_mtime: 1710249356
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0558c5e09c
+permissions: 27
+checksum: SHA1:aefd190cc46ec35518ba8f24e5270a46f60bc522 MD5:72e4715a186d55937289826e4ec72c12 ADLER32:75ef0965
+
+fileid: 108
+storage: 2
+path: thumbnails/107
+path_hash: db8b5110076513d96fb408769fc8521a
+parent: 90
+name: 107
+mimetype: 2
+mimepart: 1
+size: 18175
+mtime: 1710249850
+storage_mtime: 1710249555
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0577aca6cb
+permissions: 31
+checksum: <nil>
+
+fileid: 109
+storage: 2
+path: thumbnails/107/2048-2048-max.png
+path_hash: a7be1ae40dc10881591d642127375e5d
+parent: 108
+name: 2048-2048-max.png
+mimetype: 10
+mimepart: 5
+size: 10820
+mtime: 1710249356
+storage_mtime: 1710249356
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0558ce7097
+permissions: 27
+checksum: SHA1:73f7f07c18887a477b8f9da0ec237ec01a43db76 MD5:60c07ed72aba750a7b8142d0909a2e76 ADLER32:c562d65d
+
+fileid: 110
+storage: 2
+path: thumbnails/107/32-32.png
+path_hash: 77705f2bae579c2a4963f8f010bdf2bf
+parent: 108
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 500
+mtime: 1710249357
+storage_mtime: 1710249357
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0558d04600
+permissions: 27
+checksum: SHA1:205211eedce1ced775a04f4a4b818da3012cd367 MD5:d83ac70a16f2fb528907ca21eff9c58c ADLER32:3fa1e0c3
+
+fileid: 111
+storage: 2
+path: thumbnails/107/75-75.png
+path_hash: c5867bcdd95fa777d5cecf035ea3defc
+parent: 108
+name: 75-75.png
+mimetype: 10
+mimepart: 5
+size: 1456
+mtime: 1710249361
+storage_mtime: 1710249361
+encrypted: 0
+unencrypted_size: 0
+etag: 65f05591cf6f6
+permissions: 27
+checksum: SHA1:394f77e251a327a806a813dd340027bdf5b96494 MD5:c1704c74382d73e20e885adadc6d901c ADLER32:785dcb8f
+
+fileid: 112
+storage: 2
+path: files/Documents/two-byte Å and three-byte 😃 and four-byte 🚀 .txt
+path_hash: 9a05926f991246ce207182890c159569
+parent: 26
+name: two-byte Å and three-byte 😃 and four-byte 🚀 .txt
+mimetype: 4
+mimepart: 3
+size: 83
+mtime: 1710776908
+storage_mtime: 1710776908
+encrypted: 0
+unencrypted_size: 0
+etag: 65f8624c72979
+permissions: 27
+checksum: SHA1:5c6e71b2dc725a48ce59223e3885f5041df9d4b2 MD5:53a3aeb557c680a59b32f002c7d2e7a6 ADLER32:a3da1bf7
+
+fileid: 113
+storage: 2
+path: thumbnails/112
+path_hash: 3fa599e517f14887da484bb00292094f
+parent: 90
+name: 112
+mimetype: 2
+mimepart: 1
+size: 19879
+mtime: 1710776994
+storage_mtime: 1710776993
+encrypted: 0
+unencrypted_size: 0
+etag: 65f862a204dc9
+permissions: 31
+checksum: <nil>
+
+fileid: 116
+storage: 2
+path: thumbnails/107/55-55.png
+path_hash: 801c637519b597b00902785f5c057e2e
+parent: 108
+name: 55-55.png
+mimetype: 10
+mimepart: 5
+size: 1802
+mtime: 1710249555
+storage_mtime: 1710249555
+encrypted: 0
+unencrypted_size: 0
+etag: 65f05653823c1
+permissions: 27
+checksum: SHA1:ff6ea8e0fc0c1d94263fd0f78aab7f8bfffb5a2b MD5:420f4dd4581c41274df908580c7b66d2 ADLER32:ce1f6d20
+
+fileid: 117
+storage: 2
+path: thumbnails/103/55-55.png
+path_hash: 04f239cf4cd08eb01750a11faf929568
+parent: 104
+name: 55-55.png
+mimetype: 10
+mimepart: 5
+size: 1004
+mtime: 1710249847
+storage_mtime: 1710249847
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0577742ec6
+permissions: 27
+checksum: SHA1:07f7f2275a3ad030493aff3441f6d770570511bc MD5:309cbc162fdeeda456b7f8c304b71d0f ADLER32:7c68da66
+
+fileid: 118
+storage: 2
+path: thumbnails/107/129-129.png
+path_hash: f6627a9da88cffd5199af888fcc91139
+parent: 108
+name: 129-129.png
+mimetype: 10
+mimepart: 5
+size: 3597
+mtime: 1710249850
+storage_mtime: 1710249850
+encrypted: 0
+unencrypted_size: 0
+etag: 65f0577ac4f8b
+permissions: 27
+checksum: SHA1:0a1a9f0026ae17fc4535393c8a8c9cc05671406f MD5:7a56260c67fc0ff34f9a32e4c6bf7a2d ADLER32:42cdf1cc
+
+fileid: 120
+storage: 2
+path: files/Documents/Årings_report_2023.txt
+path_hash: f7df86057a6b291812326ea4f8932fb3
+parent: 26
+name: Årings_report_2023.txt
+mimetype: 4
+mimepart: 3
+size: 44
+mtime: 1710251967
+storage_mtime: 1710251967
+encrypted: 0
+unencrypted_size: 0
+etag: 65f05fbfe6b9a
+permissions: 27
+checksum: SHA1:8a1271e673796f77c47d3e0163b92cd4a5dec0b1 MD5:92ea56265c2e773a8f2ac5f94ff43b6a ADLER32:69db0fea
+
+fileid: 121
+storage: 2
+path: thumbnails/120
+path_hash: 86550015a71c5e6965895193dfab2043
+parent: 90
+name: 120
+mimetype: 2
+mimepart: 1
+size: 17203
+mtime: 1710323409
+storage_mtime: 1710251968
+encrypted: 0
+unencrypted_size: 0
+etag: 65f176d167982
+permissions: 31
+checksum: <nil>
+
+fileid: 122
+storage: 2
+path: thumbnails/120/2048-2048-max.png
+path_hash: 8bb47321428f85d188d6d68d5a4492b2
+parent: 121
+name: 2048-2048-max.png
+mimetype: 10
+mimepart: 5
+size: 15441
+mtime: 1710251968
+storage_mtime: 1710251968
+encrypted: 0
+unencrypted_size: 0
+etag: 65f05fc0d84c1
+permissions: 27
+checksum: SHA1:6ff9836ab32ee3cfb00cd83a2de5dcd9fc4afe64 MD5:c59f2a706b3fc25b67f49c643ea5be0d ADLER32:5c8e4f47
+
+fileid: 123
+storage: 2
+path: thumbnails/120/55-55.png
+path_hash: 4db08dee24070e578802d60d17dfd9d0
+parent: 121
+name: 55-55.png
+mimetype: 10
+mimepart: 5
+size: 1119
+mtime: 1710251968
+storage_mtime: 1710251968
+encrypted: 0
+unencrypted_size: 0
+etag: 65f05fc0eae8a
+permissions: 27
+checksum: SHA1:a70f1c84b8681a3cc15c153628f23c8713421bd0 MD5:1be65ab7415237b4655ec700d6b738ab ADLER32:432a17b5
+
+fileid: 124
+storage: 2
+path: thumbnails/120/32-32.png
+path_hash: 1a377658ce3b6c1070796723cc33254c
+parent: 121
+name: 32-32.png
+mimetype: 10
+mimepart: 5
+size: 643
+mtime: 1710323409
+storage_mtime: 1710323409
+encrypted: 0
+unencrypted_size: 0
+etag: 65f176d15f657
+permissions: 27
+checksum: SHA1:8d4572539ce94ce2ff393b33b463432b296a0909 MD5:1899934afdc35e9ccbbf2ca46f816e89 ADLER32:b26b2161
+
+fileid: 125
+storage: 2
+path: thumbnails/112/2048-2048-max.png
+path_hash: 1cdfdeff42a6611f4674fcb99d62f7cf
+parent: 113
+name: 2048-2048-max.png
+mimetype: 10
+mimepart: 5
+size: 18621
+mtime: 1710776993
+storage_mtime: 1710776993
+encrypted: 0
+unencrypted_size: 0
+etag: 65f862a1e09ff
+permissions: 27
+checksum: SHA1:4d9fc3eef09b82179d5f7e1dad8d8624e97ac872 MD5:42d8bce2698f9c30e86e065781382054 ADLER32:b47b6b84
+
+fileid: 126
+storage: 2
+path: thumbnails/112/55-55.png
+path_hash: d9c54821d5b038ed0c7633188bc73c25
+parent: 113
+name: 55-55.png
+mimetype: 10
+mimepart: 5
+size: 1258
+mtime: 1710776993
+storage_mtime: 1710776993
+encrypted: 0
+unencrypted_size: 0
+etag: 65f862a1f308f
+permissions: 27
+checksum: SHA1:d65c1322abe0b0fd5d8a02a141599960e35f31bb MD5:aa04162584dc799655da7a0ebe720d48 ADLER32:1546629e
+
